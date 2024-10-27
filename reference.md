@@ -1,0 +1,4 @@
+- **Reference ⬇️**
+  - [SVG PAGE](https://www.svgrepo.com/)
+  - [ONLINE TUTORIALS VIDEO](https://youtu.be/057bwndwvNg?si=QyXSUEgDCtPQ5KwB)
+  - [PATTERN TEXTURE](https://loading.io/pattern/m-cloud)
